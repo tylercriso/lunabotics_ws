@@ -1,0 +1,17 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/wtcc-tycho/lunabotics_ws/build/lunabotics_control",
+        "/home/wtcc-tycho/lunabotics_ws/install/lunabotics_control/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/wtcc-tycho/lunabotics_ws/build/lunabotics_control",
+        "/home/wtcc-tycho/lunabotics_ws/install/lunabotics_control/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "cmake.sourceDirectory": "/home/wtcc-tycho/lunabotics_ws/src/lunabotics_control_cpp"
+}

@@ -1,5 +1,17 @@
+# ROS2 generated files
 build/
 install/
 log/
+
+# VS Code databases
+.vscode/browse.vc.db
+.vscode/*.db
+.vscode/ipch/
+
+# Python temp files
+__pycache__/
+*.pyc
+
+# ROS2 recordings
 *.db3
 *.mcap
